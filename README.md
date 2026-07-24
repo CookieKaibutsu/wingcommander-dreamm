@@ -3,7 +3,7 @@ This pack adds games in the Wing Commander series to the DREAMM emulator.
 
 The following games in the series are included. Not all of the games work yet.
 
-Wing Commander
+[Wing Commander](https://github.com/CookieKaibutsu/wingcommander-dreamm/wiki/Wing-Commander)
 
 Wing Commander II: Vengeance of the Kilrathi
 
