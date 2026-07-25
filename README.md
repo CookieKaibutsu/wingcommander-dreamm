@@ -1,7 +1,7 @@
 # Wing Commander Series DREAMMpack
 This pack adds games in the Wing Commander series to the DREAMM emulator.
 
-The following games in the series are included. Not all of the games work yet.
+The following games in the series are included. Work is continuting on all games.
 
 [Wing Commander](https://github.com/CookieKaibutsu/wingcommander-dreamm/wiki/Wing-Commander)
 
@@ -11,12 +11,12 @@ The following games in the series are included. Not all of the games work yet.
 
 [Wing Commander IV: The Price of Freedom](https://github.com/CookieKaibutsu/wingcommander-dreamm/wiki/Wing-Commander-IV:-The-Price-of-Freedom)
 
-[Wing Commander: Prophecy](https://github.com/CookieKaibutsu/wingcommander-dreamm/wiki/Wing-Commander:-Prophecy)
+[Wing Commander: Prophecy](https://github.com/CookieKaibutsu/wingcommander-dreamm/wiki/Wing-Commander:-Prophecy) (not working)
 
 [Wing Commander: Academy](https://github.com/CookieKaibutsu/wingcommander-dreamm/wiki/Wing-Commander:-Academy)
 
 [Wing Commander: Armada](https://github.com/CookieKaibutsu/wingcommander-dreamm/wiki/Wing-Commander:-Armada)
 
-[Wing Commander: Privateer](https://github.com/CookieKaibutsu/wingcommander-dreamm/wiki/Wing-Commander:-Privateer)
+[Wing Commander: Privateer](https://github.com/CookieKaibutsu/wingcommander-dreamm/wiki/Wing-Commander:-Privateer) (not working)
 
 [Privateer 2: The Darkening](https://github.com/CookieKaibutsu/wingcommander-dreamm/wiki/Privateer-2:-The-Darkening)
