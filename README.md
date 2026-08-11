@@ -1,5 +1,5 @@
 # Wing Commander Series DREAMMpack
-This is a Wing Commander dreammpack for the [DREAMM emulator](https://dreamm.aarongiles.com/).
+This is a Wing Commander DREAMMpack for the [DREAMM emulator](https://dreamm.aarongiles.com/).
 
 Please see the [beginner's guide](https://github.com/CookieKaibutsu/wingcommander-dreamm/wiki/A-Beginner's-Guide-to-adding-Wing-Commander-to-DREAMM) for details on adding the pack and installing games.
 
