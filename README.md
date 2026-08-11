@@ -19,6 +19,6 @@ The following games in the series are included. Work is continuting on all games
 
 [Wing Commander: Armada](https://github.com/CookieKaibutsu/wingcommander-dreamm/wiki/Wing-Commander:-Armada)
 
-[Wing Commander: Privateer](https://github.com/CookieKaibutsu/wingcommander-dreamm/wiki/Wing-Commander:-Privateer) (not working)
+[Wing Commander: Privateer](https://github.com/CookieKaibutsu/wingcommander-dreamm/wiki/Wing-Commander:-Privateer)
 
 [Privateer 2: The Darkening](https://github.com/CookieKaibutsu/wingcommander-dreamm/wiki/Privateer-2:-The-Darkening)
