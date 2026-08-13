@@ -22,3 +22,5 @@ The following games in the series are included. Work is continuting on all games
 [Wing Commander: Privateer](https://github.com/CookieKaibutsu/wingcommander-dreamm/wiki/Wing-Commander:-Privateer)
 
 [Privateer 2: The Darkening](https://github.com/CookieKaibutsu/wingcommander-dreamm/wiki/Privateer-2:-The-Darkening)
+
+[Strike Commander (bonus game)](https://github.com/CookieKaibutsu/wingcommander-dreamm/wiki/Strike-Commander)
