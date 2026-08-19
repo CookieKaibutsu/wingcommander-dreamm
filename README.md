@@ -15,7 +15,9 @@ The following games in the series are included. Work is continuting on all games
 
 [Wing Commander: Prophecy](https://github.com/CookieKaibutsu/wingcommander-dreamm/wiki/Wing-Commander:-Prophecy) (not working)
 
-[Wing Commander: Academy](https://github.com/CookieKaibutsu/wingcommander-dreamm/wiki/Wing-Commander:-Academy)
+[Wing Commander: Secret Ops](https://github.com/CookieKaibutsu/wingcommander-dreamm/wiki/Wing-Commander:-Secret-Ops) (not working)
+
+[Wing Commander Academy](https://github.com/CookieKaibutsu/wingcommander-dreamm/wiki/Wing-Commander:-Academy)
 
 [Wing Commander: Armada](https://github.com/CookieKaibutsu/wingcommander-dreamm/wiki/Wing-Commander:-Armada)
 
